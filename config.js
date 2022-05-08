@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `T đã phải tự mình học và làm cái này 
     cũng khá lâu đấy, chắc là cũng biết cái gì rồi nên là có thể lựa chọn việc ấn vào tiếp hay là không nhá`,
     btnIntro: 'Zô',
-    title: '    Chán m thật đấy đáng lẽ cái này sẽ không xuất hiện đâu bởi t muốn gặp trực tiếp để nói cơ, nhưng rủ cũng khó thật đấy-_',
+    title: '    Chán m thật đấy đáng lẽ cái này sẽ không xuất hiện đâu bởi t muốn gặp trực tiếp để nói cơ, nhưng rủ cũng khó thật đấy-_-',
     desc: 'Do you want to be my girlfriend? ',
     btnYes: 'Cóo(ấn cái này đi:>)',
     btnNo: 'Không( k ấn được đâu :>>) :3',
