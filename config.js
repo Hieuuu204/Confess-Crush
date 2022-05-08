@@ -1,20 +1,16 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "You, it's you",
+    introTitle: 'Hey',
+    introDesc: `T đã phải tự mình học và làm cái này 
+    cũng khá lâu đấy, chắc là cũng biết cái gì rồi nên là có thể lựa chọn việc ấn vào tiếp hay là không nhá`,
+    btnIntro: 'Zô',
+    title: '    Chán m thật đấy đáng lẽ cái này sẽ không xuất hiện đâu bởi t muốn gặp trực tiếp để nói cơ, nhưng rủ cũng khó thật đấy-_',
+    desc: 'Do you want to be my girlfriend? ',
+    btnYes: 'Cóo(ấn cái này đi:>)',
+    btnNo: 'Không( k ấn được đâu :>>) :3',
+    question: 'Lúc này là t đang run và cũng phân vân lắm là có nên làm tiếp tục hay k đấy, nên là cho biết lí do sao đồng ý đi',
+    btnReply: 'Đồng ý',
+    messDesc: 'Nếu đồng ý rồi thì hãy call cho người ta đi bởi vì k dám nhìn vào màn hình nữa đâu:))',
+    btnAccept: 'Oke bbi',
+    messLink: 'https://www.facebook.com/messages/t/hieuuu204'
 }
