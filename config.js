@@ -12,5 +12,5 @@ const CONFIG = {
     btnReply: 'Đồng ý',
     messDesc: 'Nếu đồng ý rồi thì hãy call cho người ta đi bởi vì k dám nhìn vào màn hình nữa đâu:))',
     btnAccept: 'Oke bbi',
-    messLink: 'https://www.facebook.com/messages/t/hieuuu204'
+    messLink: 'https://www.facebook.com/hieuuu204'
 }
